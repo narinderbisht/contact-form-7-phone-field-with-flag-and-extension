@@ -1,6 +1,8 @@
 # contact-form-7-phone-field-with-flag-and-extension
 Custom code for contact form 7 WordPress plugin. Code helps modify the Telephone/Phone number field. Script will show country number prefix extension with country flags.
 
+<img src="https://github.com/narinderbisht/contact-form-7-phone-field-with-flag-and-extension/blob/master/screenshot.png" alt="screenshot"/>
+
 ## Getting Started
 1. Download the [latest release](https://github.com/narinderbisht/contact-form-7-phone-field-with-flag-and-extension/releases/latest).
 
